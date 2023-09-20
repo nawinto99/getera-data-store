@@ -1,0 +1,10 @@
+teams:
+  - name: zen-admin
+    description: Zen Admin
+    privacy: closed
+    permission: admin
+
+  - name: zen-read
+    description: Zen Read
+    privacy: closed
+    permission: read

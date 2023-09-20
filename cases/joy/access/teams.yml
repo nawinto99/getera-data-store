@@ -1,0 +1,10 @@
+teams:
+  - name: joy-admin
+    description: Joy Admin
+    privacy: closed
+    permission: admin
+
+  - name: joy-read
+    description: Joy Read
+    privacy: closed
+    permission: read
